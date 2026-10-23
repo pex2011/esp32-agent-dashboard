@@ -6,7 +6,7 @@ Il display è un **ESP32-2432S028R** (Cheap Yellow Display, 2,8", touch resistiv
 
 ## Cosa serve
 
-- [ESP32-2432S028R su AliExpress](https://www.aliexpress.com/item/1005004502250619.html). Controlla che sia la variante **R, 2,8", ILI9341 e touch resistivo**: schede simili possono avere pin diversi.
+- [ESP32-2432S028R su AliExpress](https://s.click.aliexpress.com/e/_c3GyE0zh). Controlla che sia la variante **R, 2,8", ILI9341 e touch resistivo**: schede simili possono avere pin diversi.
 - Cavo **micro USB dati**. Su questa revisione la porta USB-C potrebbe non alimentarsi con un cavo C-to-C.
 - Mac con Arduino IDE 2.x e Python 3.
 - Claude Code installato; Codex è opzionale per la percentuale di utilizzo.
