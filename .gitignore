@@ -1,0 +1,10 @@
+.env
+.env.*
+cyd_dash/secrets.h
+cyd_test/
+**/__pycache__/
+**/*.pyc
+.DS_Store
+output/
+tmp/
+.wrangler/
